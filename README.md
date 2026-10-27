@@ -1,0 +1,2 @@
+# Goofy
+Goofy addon
